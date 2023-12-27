@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Comfortaa:wght@600&family=Dancing+Script:wght@500&family=Odibee+Sans&family=Roboto+Mono:wght@500&family=Roboto:wght@500&family=Rubik+Bubbles&display=swap');
+body{
+    background: linear-gradient(120deg,rgb(79, 175, 79),rgb(206, 32, 32))fixed;
+    font-family: "Dancing Script";
+    font-size: 40px;
+    text-align: center;
+}
+.first-header{
+    color: snow;
+}
